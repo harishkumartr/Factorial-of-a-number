@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
+#include <math.h>
 
 int fact(int num)
 {
@@ -23,3 +25,6 @@ int main()
 
     return 0;
 }
+
+
+printf("End of file")
