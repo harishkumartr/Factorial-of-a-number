@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <math.h> new change from branch 1
+>>>>>>> new2
 
 int fact(int num)
 {
